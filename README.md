@@ -40,7 +40,7 @@ Install dependencies via pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-
+```
 ## Running the Project
 Open the Jupyter Notebook:
 Run each cell sequentially to perform data preprocessing, modeling, and evaluation.
