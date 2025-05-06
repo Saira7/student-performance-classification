@@ -45,11 +45,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Open the Jupyter Notebook:
 Run each cell sequentially to perform data preprocessing, modeling, and evaluation.
 
-##Model Results
+## Model Results
 
 All models were evaluated based on classification accuracy, precision, recall, and F1-score. Insights about which features most influence student performance are also presented.
 
-##Conclusion
+## Conclusion
 
    - Random Forest performed best among tested models.
 
